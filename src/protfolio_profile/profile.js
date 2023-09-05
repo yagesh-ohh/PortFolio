@@ -26,7 +26,7 @@ const Profile = () => {
      <header className="header">
     <nav className="nav bd_grid">
       <div>
-        <a href="#" className="nav_logo">Code with Yagesh</a>
+        <a href={' '} className="nav_logo">Code with Yagesh</a>
       </div>
 
       <div className="nav_menu" id="nav_menu">
@@ -71,18 +71,18 @@ const Profile = () => {
           Hi , <br />I'm <span className="home_title"> Yagesh.R </span> <br />
           Web Designer
         </h1>
-        <a href="#" className="button">Contact</a>
+        <a href={' '} className="button">Contact</a>
       </div>
 
       {/* <!-- ---------             Social Media icon           ------- --> */}
       <div className="home_social" data-aos="fade-down">
-        <a href="https://www.facebook.com/profile.php?id=100012146800550" target='_blank' className="home_social-icon"
+        <a href={"https://www.facebook.com/profile.php?id=100012146800550"} target='_blank' rel="noreferrer" className="home_social-icon"
           ><i className="bx bxl-facebook-circle"></i
         ></a>
-        <a href="https://www.instagram.com/yagesh.r/?next=%2F" target='_blank' className="home_social-icon"
+        <a href={"https://www.instagram.com/yagesh.r/?next=%2F"} target='_blank' rel="noreferrer" className="home_social-icon"
           ><i className="bx bxl-instagram"></i
       ></a>
-        <a href={"#" } target='#' className="home_social-icon"
+        <a href={" "} target='#' rel="noreferrer" className="home_social-icon"
           ><i className="bx bxl-twitter"></i
         ></a>
       </div>
@@ -1530,10 +1530,10 @@ const Profile = () => {
       <p className="footer_title">Yagesh Raju</p>
 
       <div className="footer_socials">
-        <a href="https://www.facebook.com/profile.php?id=100012146800550" className="footer_icon">
+        <a href={"https://www.facebook.com/profile.php?id=100012146800550"} target='_blank' rel="noreferrer" className="footer_icon">
           <i className="bx bxl-facebook-circle"></i>
         </a>
-        <a href="#" className="footer_icon"><i className="bx bxl-instagram"></i></a>
+      <a href={" "} className="footer_icon"><i className="bx bxl-instagram"></i></a>
         <a
          href="https://www.youtube.com/@ultrasparkygaming5404"
           target="_blank"
@@ -1542,7 +1542,7 @@ const Profile = () => {
           ><i className="bx bxl-youtube"></i
         ></a>
         <a
-         href="https://github.com/yagesh-ohh?tab=repositories"
+         href={"https://github.com/yagesh-ohh?tab=repositories"}
           target="_blank"
           rel="noreferrer" 
           className="footer_icon"
