@@ -1468,7 +1468,7 @@ const Profile = () => {
       <h2 className="section_title">SOME PROJECTS</h2>
       <div className="work_container bd_grid">
         <div className="work_img">
-          <img src={work1} alt="" />
+          <a href={"https://yagesh-ohh.github.io/switch_to_Dark_mood/"} ><img src={work1} alt="" /></a>
         </div>
         <div className="work_img">
           <img src={work1} alt="" />
