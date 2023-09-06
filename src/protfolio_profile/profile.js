@@ -2,7 +2,7 @@ import React, { useEffect } from 'react'
 // import { work1, work2,work3,work4,work5,work6} from "./img";
 import work1 from './img/work1.png';
 // import work2 from './img/work2.png';
-// import work3 from './img/work3.png';
+import work3 from './img/work3.png';
 // import work4 from './img/work4.png';
 // import work5 from './img/work5.png';
 // import work6 from './img/work6.png';
@@ -1477,7 +1477,7 @@ const Profile = () => {
           <img src={work1}alt="" />
         </div>
         <div className="work_img">
-          <img src={work1}alt=" " />
+         <a href={'https://yagesh-ohh.github.io/Todo_List/todo.html'} > <img src={work3}alt=" " /></a>
         </div>
         <div className="work_img">
           <img src={work1}alt="" />
