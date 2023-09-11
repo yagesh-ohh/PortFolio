@@ -1,5 +1,7 @@
 import React, { useEffect } from 'react'
 // import { work1, work2,work3,work4,work5,work6} from "./img";
+import  seat  from "./img/Screenshot 2023-09-11 171223.png";
+
 import work1 from './img/work1.png';
 // import work2 from './img/work2.png';
 import work3 from './img/work3.png';
@@ -10,7 +12,7 @@ import './profile.css'
 import AOS from "aos";
 import "aos/dist/aos.css";
 
-
+// src/protfolio_profile/img/Screenshot 2023-09-11 171223.png
 
 const Profile = () => {
 
@@ -1472,7 +1474,8 @@ const Profile = () => {
           rel="noreferrer" ><img src={work1} alt="" /></a>
         </div>
         <div className="work_img">
-          <img src={work1} alt="" />
+           <a href={"https://64ff07cbdb4b096aefa1886a--luxury-tartufo-e1dd4a.netlify.app/"} target="_blank"
+          rel="noreferrer" >  <img src={seat} alt="" /></a>
         </div>
         <div className="work_img">
           <img src={work1}alt="" />
