@@ -1482,7 +1482,8 @@ const Profile = () => {
           rel="noreferrer" > <img src={work3}alt=" " /></a>
         </div>
         <div className="work_img">
-          <img src={work1}alt="" />
+           <a href={'https://yagesh-ohh.github.io/Search_countries-details/search_countries.html'} target="_blank"
+          rel="noreferrer" > <img src={work3}alt=" " /></a>
         </div>
       
         <div className="work_img">
