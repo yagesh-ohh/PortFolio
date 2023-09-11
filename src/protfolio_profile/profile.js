@@ -83,9 +83,13 @@ const Profile = () => {
         <a href={"https://www.facebook.com/profile.php?id=100012146800550"} target='_blank' rel="noreferrer" className="home_social-icon"
           ><i className="bx bxl-facebook-circle"></i
         ></a>
-        <a href={"https://www.instagram.com/yagesh.r/?next=%2F"} target='_blank' rel="noreferrer" className="home_social-icon"
-          ><i className="bx bxl-instagram"></i
-      ></a>
+         <a
+         href={"https://github.com/yagesh-ohh?tab=repositories"}
+          target="_blank"
+          rel="noreferrer" 
+          className="footer_icon"
+          ><i className="bx bxl-github"></i
+        ></a>
         <a href={" "} target='#' rel="noreferrer" className="home_social-icon"
           ><i className="bx bxl-twitter"></i
         ></a>
