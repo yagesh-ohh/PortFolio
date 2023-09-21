@@ -1479,20 +1479,20 @@ const Profile = () => {
            <a href={"https://64ff07cbdb4b096aefa1886a--luxury-tartufo-e1dd4a.netlify.app/"} target="_blank"
           rel="noreferrer" >  <img src={seat} alt="" /></a>
         </div>
-              <div className="work_img">
-         <a href={'https://yagesh-ohh.github.io/Todo_List/todo.html'} target="_blank"
-          rel="noreferrer" > <img src={work3}alt=" " /></a>
-        </div>
-        <div className="work_img">
-          <img src={work1}alt="" />
-        </div>
+        //    <div className="work_img">
+        //  <a href={'https://yagesh-ohh.github.io/Todo_List/todo.html'} target="_blank"
+        //   rel="noreferrer" > <img src={work3}alt=" " /></a>
+        // </div>
+        // <div className="work_img">
+        //   <img src={work1}alt="" />
+        // </div>
           <div className="work_img">
            <a href={'https://yagesh-ohh.github.io/Search_countries-details/search_countries.html'} target="_blank"
           rel="noreferrer" > <img src={countries}alt=" " /></a>
         </div>
-        <div className="work_img">
-          <img src={work1}alt="" />
-        </div>
+        // <div className="work_img">
+        //   <img src={work1}alt="" />
+        // </div>
       </div>
     </section>
 
