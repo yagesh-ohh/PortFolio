@@ -1487,7 +1487,7 @@ const Profile = () => {
         // </div>
         */}
           <div className="work_img">
-           <a href={"https://yagesh-ohh.github.io/Search_countries-details/search_countries.html"} target="_blank"
+           <a href={} target="_blank"
           rel="noreferrer" > <img src={countries}alt=" " /></a>
         </div>
         {/* // <div className="work_img">
