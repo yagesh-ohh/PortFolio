@@ -6,7 +6,7 @@ import  countries  from "./img/countries.png";
 
 import work1 from './img/work1.png';
 // import work2 from './img/work2.png';
-import work3 from './img/work3.png';
+// import work3 from './img/work3.png';
 // import work4 from './img/work4.png';
 // import work5 from './img/work5.png';
 // import work6 from './img/work6.png';
